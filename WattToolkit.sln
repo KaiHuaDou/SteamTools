@@ -8,7 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Root", "0.Root", "{46259E
 		src\.editorconfig = src\.editorconfig
 		.gitignore = .gitignore
 		.gitmodules = .gitmodules
-		.github\workflows\CI.yml = .github\workflows\CI.yml
 		src\Directory.Build.props = src\Directory.Build.props
 		ref\DirectoryPackages\Directory.Packages.props = ref\DirectoryPackages\Directory.Packages.props
 		nuget.config = nuget.config

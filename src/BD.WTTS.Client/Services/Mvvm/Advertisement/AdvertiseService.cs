@@ -127,6 +127,6 @@ public sealed class AdvertiseService : ReactiveObject
         //    return;
         //}
 
-        IsShowAdvertise = true;
+        IsShowAdvertise = false;
     }
 }

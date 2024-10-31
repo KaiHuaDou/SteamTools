@@ -48,7 +48,7 @@
                     <ui:FontIconSource FontFamily="{StaticResource SymbolThemeFontFamily}" Glyph="{StaticResource HeartBroken}" />
                 </ui:SettingsExpander.IconSource>
                 <ui:SettingsExpander.Footer>
-                    <ToggleSwitch Classes="LeftContent" IsChecked="{Binding Source={x:Static ms:UISettings.IsShowAdvertisement}, Path=!Value, Mode=TwoWay}" />
+                    <ToggleSwitch Classes="LeftContent" IsChecked="True" />
                 </ui:SettingsExpander.Footer>
             </ui:SettingsExpander>
         </Border>

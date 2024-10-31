@@ -81,7 +81,7 @@
         {
           "TypeName": "bool",
           "PropertyName": "IsShowAdvertisement",
-          "DefaultValue": "true",
+          "DefaultValue": "false",
           "DefaultValueIsConst": true,
           "Summary": "是否显示广告",
           "IsRegionOrEndregion": null,

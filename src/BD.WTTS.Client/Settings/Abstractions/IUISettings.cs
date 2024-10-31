@@ -151,7 +151,7 @@ public partial interface IUISettings
     /// <summary>
     /// 是否显示广告的默认值
     /// </summary>
-    const bool DefaultIsShowAdvertisement = true;
+    const bool DefaultIsShowAdvertisement = false;
 
     /// <summary>
     /// 窗口位置大小的默认值
